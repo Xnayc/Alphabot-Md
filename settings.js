@@ -28,7 +28,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "natccy bot" //namabot kalian
 global.ownername= "nanat" //nama kalian
-global.myweb ="https://api." //bebas asal jan hapus
+global.myweb ="https://api" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/" //bebas
 global.email = "nanadkawai98@gmail.com" //bebas
@@ -42,7 +42,7 @@ global.thumbnail = "./image/20221024_135744.jpg" // ini lol.jpg adalah nama foto
 global.donasi = "./image/20221025_094223.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© natccy ' //sticker wm ubah
+global.packname = '© natccy' //sticker wm ubah
 global.author = 'Di Buat Oleh nanat' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
